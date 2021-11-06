@@ -75,16 +75,19 @@ Open Web Application Security Project (OWASP)
 Aho, Alfred Vaino; Lam, Monica Sin-Ling; Sethi, Ravi; Ullman, Jeffrey David
     *Compilers: Principles, Techniques, and Tools (2 ed.)*.
 
+Stefan Höltgen
+    *RESUME Hands-on Retrocomputing*.
+
 ### Machine Learning
 
 Andriy Burkov
-    *The Hundred-page Machine Learning Book*
+    *The Hundred-page Machine Learning Book*.
 
 Andriy Burkov
-    *Machine Learning Engineering*
+    *Machine Learning Engineering*.
 
 Aurélien Géron
-    *Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow*
+    *Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow*.
 
 ### 3D and computational geometry
 
@@ -117,12 +120,15 @@ Timothy A. Davis
     *Direct Methods for Sparse Linear Systems*.
 
 Thomas R.J. Hughes
-    *The Finite Element Method. Linear Static and Dynamic Finite Element Analysis*
+    *The Finite Element Method. Linear Static and Dynamic Finite Element Analysis*.
+
+David Spiegelhalter
+    *The Art of Statistics. Learning from Data*.
 
 ### Physics
 
 Kip S. Thorne, Roger D. Blandford
-    *Modern classical physics: Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics*
+    *Modern classical physics: Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics*.
 
 ## Project ideas
 
