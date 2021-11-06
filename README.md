@@ -29,6 +29,12 @@ Scott Meyers
 Scott Meyers
     *Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14*.
 
+Luca Palmieri
+    *Zero To Production In Rust*
+
+Jon Gjengset
+    *Rust for Rustaceans. Idiomatic Programming for Experienced Developers*
+
 ### Software architecture
 
 Eric Evans
