@@ -30,10 +30,10 @@ Scott Meyers
     *Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14*.
 
 Luca Palmieri
-    *Zero To Production In Rust*
+    *Zero To Production In Rust*.
 
 Jon Gjengset
-    *Rust for Rustaceans. Idiomatic Programming for Experienced Developers*
+    *Rust for Rustaceans. Idiomatic Programming for Experienced Developers*.
 
 ### Software architecture
 
@@ -75,6 +75,25 @@ Open Web Application Security Project (OWASP)
 Aho, Alfred Vaino; Lam, Monica Sin-Ling; Sethi, Ravi; Ullman, Jeffrey David
     *Compilers: Principles, Techniques, and Tools (2 ed.)*.
 
+### Machine Learning
+
+Andriy Burkov
+    *The Hundred-page Machine Learning Book*
+
+Andriy Burkov
+    *Machine Learning Engineering*
+
+Aurélien Géron
+    *Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow*
+
+### 3D and computational geometry
+
+Les Piegl
+    *The Nurbs Book*.
+
+Jakob Andreas BærentzenJens GravesenFrançois AntonHenrik Aanæs
+    *Guide to Computational Geometry Processing*.
+
 ### Processes and management
 
 Matthew Skelton
@@ -82,6 +101,28 @@ Matthew Skelton
 
 Fred Brooks
     *The Mythical Man-Month: Essays on Software Engineering*.
+
+### Mathematics
+
+Jorge Nocedal, Stephen Wright
+    *Numerical Optimization*.
+
+William H. Press
+    *Numerical Recipes: The Art of Scientific Computing*.
+
+Gene H. Golub
+    *Matrix Computations*.
+
+Timothy A. Davis
+    *Direct Methods for Sparse Linear Systems*.
+
+Thomas R.J. Hughes
+    *The Finite Element Method. Linear Static and Dynamic Finite Element Analysis*
+
+### Physics
+
+Kip S. Thorne, Roger D. Blandford
+    *Modern classical physics: Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics*
 
 ## Project ideas
 
