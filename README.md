@@ -94,7 +94,7 @@ Aurélien Géron
 Les Piegl
     *The Nurbs Book*.
 
-Jakob Andreas BærentzenJens GravesenFrançois AntonHenrik Aanæs
+Jakob Andreas Bærentzen, Jens Gravesen, François Anton, Henrik Aanæs
     *Guide to Computational Geometry Processing*.
 
 ### Processes and management
@@ -131,6 +131,22 @@ Kip S. Thorne, Roger D. Blandford
     *Modern classical physics: Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics*.
 
 ## Project ideas
+
+### A user's manual for introverts in a tech job
+
+This is a book, not a software project.
+Recently I started researching the topic of how to be happy as an introvert
+in a software job, without having to give up your goals and ambitions.
+I collected some ideas and have some own ideas.
+
+The next step is to write them down and share them with other.
+While writing, I will probably have to do further and more detailed research.
+
+I will write this using mdbook and upload it to github pages.
+
+#### Status
+
+Already started, but it will take some time.
 
 ### Photo manager
 
