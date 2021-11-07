@@ -13,13 +13,13 @@ Andrew Hunt, David Thomas
     *The pragmatic programmer*.
 
 Glenfold J. Myers
-    *The Art of Software Testing*.
+    *The Art of Software Testing*. ⭐
 
 Robert C. Martin
     *Agile Software Development, Principles, Patterns, and Practices*.
 
 Felienne Hermans
-    *The Programmer's Brain*.
+    *The Programmer's Brain*. ⭐
 
 ### Programming languages
 
@@ -30,15 +30,15 @@ Scott Meyers
     *Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14*.
 
 Luca Palmieri
-    *Zero To Production In Rust*.
+    *Zero To Production In Rust*. ⭐⭐⭐
 
 Jon Gjengset
-    *Rust for Rustaceans. Idiomatic Programming for Experienced Developers*.
+    *Rust for Rustaceans. Idiomatic Programming for Experienced Developers*. ⭐⭐
 
 ### Software architecture
 
 Eric Evans
-    *Domain-Driven Design: Tackling Complexity in the Heart of Software*.
+    *Domain-Driven Design: Tackling Complexity in the Heart of Software*. ⭐
 
 Humberto Cervantes
     *Designing Software Architectures: A Practical Approach*.
@@ -67,16 +67,16 @@ Martin Fowler
 ### Computer science
 
 Harold Abelson, Gerald Jay Sussman
-    *Structure and Interpretation of Computer Programs*.
+    *Structure and Interpretation of Computer Programs*. ⭐
 
 Open Web Application Security Project (OWASP)
     https://www.owasp.org
 
 Aho, Alfred Vaino; Lam, Monica Sin-Ling; Sethi, Ravi; Ullman, Jeffrey David
-    *Compilers: Principles, Techniques, and Tools (2 ed.)*.
+    *Compilers: Principles, Techniques, and Tools (2 ed.)*. ⭐⭐
 
 Stefan Höltgen
-    *RESUME Hands-on Retrocomputing*.
+    *RESUME Hands-on Retrocomputing*. ⭐
 
 ### Machine Learning
 
@@ -84,10 +84,10 @@ Andriy Burkov
     *The Hundred-page Machine Learning Book*.
 
 Andriy Burkov
-    *Machine Learning Engineering*.
+    *Machine Learning Engineering*. ⭐⭐
 
 Aurélien Géron
-    *Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow*.
+    *Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow*. ⭐⭐⭐
 
 ### 3D and computational geometry
 
@@ -123,7 +123,7 @@ Thomas R.J. Hughes
     *The Finite Element Method. Linear Static and Dynamic Finite Element Analysis*.
 
 David Spiegelhalter
-    *The Art of Statistics. Learning from Data*.
+    *The Art of Statistics. Learning from Data*. ⭐
 
 ### Physics
 
