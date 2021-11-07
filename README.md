@@ -108,7 +108,7 @@ Fred Brooks
 ### Mathematics
 
 Jorge Nocedal, Stephen Wright
-    *Numerical Optimization*.
+    *Numerical Optimization*. ⭐
 
 William H. Press
     *Numerical Recipes: The Art of Scientific Computing*.
