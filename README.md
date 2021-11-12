@@ -77,6 +77,9 @@ Aho, Alfred Vaino; Lam, Monica Sin-Ling; Sethi, Ravi; Ullman, Jeffrey David
 
 Stefan Höltgen
     *RESUME Hands-on Retrocomputing*. ⭐
+    
+Peter van Roy, Seif Haridi
+    *Concepts, Techniques, and Models of Computer Programming*.
 
 ### Machine Learning
 
