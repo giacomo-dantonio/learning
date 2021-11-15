@@ -89,6 +89,9 @@ Andriy Burkov
 Aurélien Géron
     *Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow*. ⭐⭐⭐
 
+Peter Bruce, Andrew Bruce
+    *Practical Statistics for Data Scientists*.
+
 ### 3D and computational geometry
 
 Les Piegl
