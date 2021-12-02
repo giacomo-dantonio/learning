@@ -95,6 +95,9 @@ Aurélien Géron
 Peter Bruce, Andrew Bruce
     *Practical Statistics for Data Scientists*.
 
+Trevor Hastie, Robert Tibshirani, Jerome Friedman
+   *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*
+
 ### 3D and computational geometry
 
 Les Piegl
