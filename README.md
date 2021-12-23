@@ -80,6 +80,9 @@ Stefan Höltgen
     
 Peter van Roy, Seif Haridi
     *Concepts, Techniques, and Models of Computer Programming*.
+   
+Donald Knuth
+   *The Art of Computer Programming*
 
 ### Machine Learning
 
