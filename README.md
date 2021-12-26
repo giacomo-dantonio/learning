@@ -101,6 +101,12 @@ Peter Bruce, Andrew Bruce
 Trevor Hastie, Robert Tibshirani, Jerome Friedman
    *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*
 
+Sergios Karagiannakos
+   *Deep Learning in Production*
+
+Ian Goodfellow and Yoshua Bengio and Aaron Courville
+   *Deep Learning*
+
 ### 3D and computational geometry
 
 Les Piegl
