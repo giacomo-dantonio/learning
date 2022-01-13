@@ -107,6 +107,9 @@ Sergios Karagiannakos
 Ian Goodfellow and Yoshua Bengio and Aaron Courville
    *Deep Learning*
 
+Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin.
+   *Bayesian Data Analysis*
+
 ### 3D and computational geometry
 
 Les Piegl
