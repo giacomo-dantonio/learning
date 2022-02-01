@@ -118,6 +118,9 @@ Les Piegl
 Jakob Andreas Bærentzen, Jens Gravesen, François Anton, Henrik Aanæs
     *Guide to Computational Geometry Processing*.
 
+Gabriel Gambetta
+   *Computer Graphics from Scratch*.
+
 ### Processes and management
 
 Matthew Skelton
