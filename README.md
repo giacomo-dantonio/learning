@@ -34,6 +34,9 @@ Luca Palmieri
 
 Jon Gjengset
     *Rust for Rustaceans. Idiomatic Programming for Experienced Developers*. ⭐⭐
+ 
+Sylvain Kerkour
+   *Black Hat Rust*.
 
 ### Software architecture
 
@@ -222,9 +225,9 @@ Not started yet.
 
 ### Personal page and CV
 
-| Technologies        | Difficulty | Effort | Status          |
-|---------------------|------------|--------|-----------------|
-| Vue.js, TypeScript  | easy       | small  | not started yet |
+| Technologies          | Difficulty | Effort | Status    |
+|-----------------------|------------|--------|-----------|
+| Html, CSS, Vanilla JS | easy       | small  | completed |
 
 The idea of this project is a personal page hosted on github pages.
 It should be structured similar to a CV, but each entry should link to
@@ -232,9 +235,8 @@ a detail page, containing more specific information.
 
 #### Status
 
-I started this project using React and Tachyons as a CSS framework.
-The project was almost finished, but I'm not satisfied of how it turned.
-I want to do it again from scratch using Vue.js and Vuetify.
+I completed this projects on two long train journeys
+during Christmas 2021.
 
 ### Nonviolent communication
 
