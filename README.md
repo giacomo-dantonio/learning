@@ -21,6 +21,22 @@ Robert C. Martin
 Felienne Hermans
     *The Programmer's Brain*. ⭐
 
+Robert C. Seacord
+   *Effective C*
+   (An Introduction to Professional C Programming). 📚
+
+Randall Hyde
+   *Write Great Code, Volume 1, 2nd Edition*
+   (Understanding the Machine). 📚 ⭐
+
+Randall Hyde
+   *Write Great Code, Volume 2, 2nd Edition*
+   (Thinking Low-Level, Writing High-Level). 📚 ⭐
+
+Randall Hyde
+   *Write Great Code, Volume 3*
+   (Engineering Software). 📚
+
 ### Programming languages
 
 Scott Meyers
@@ -33,15 +49,23 @@ Luca Palmieri
     *Zero To Production In Rust*. ⭐⭐⭐
 
 Jon Gjengset
-    *Rust for Rustaceans. Idiomatic Programming for Experienced Developers*. ⭐⭐
+    *Rust for Rustaceans. Idiomatic Programming for Experienced Developers*. 📚 ⭐⭐
  
 Sylvain Kerkour
-   *Black Hat Rust*.
+   *Black Hat Rust*. ⭐⭐
+
+Conrad Barski
+   *Land of Lisp*
+   (Learn to Program in Lisp, One Game at a Time!). 📚
+
+Daniel Higginbotham
+   *Clojure for the Brave and True*
+   (Learn the Ultimate Language and Become a Better Programmer). 📚
 
 ### Software architecture
 
 Eric Evans
-    *Domain-Driven Design: Tackling Complexity in the Heart of Software*. ⭐
+    *Domain-Driven Design: Tackling Complexity in the Heart of Software*. ⭐⭐
 
 Humberto Cervantes
     *Designing Software Architectures: A Practical Approach*.
@@ -50,7 +74,7 @@ Len Bass, Rick Kazman, Paul Clemens
     *Software Architecture in Practice*.
 
 Gregor Hohpe and Bobby Woolf
-    *Enterprise Integration Patterns*.
+    *Enterprise Integration Patterns*. ⭐
 
 .NET application architecture documentation
     https://docs.microsoft.com/en-us/dotnet/architecture/
@@ -65,53 +89,68 @@ Sam Newmann
     *Building microservices*.
 
 Martin Fowler
-    *Patterns of Enterprise Application Architecture*.
+    *Patterns of Enterprise Application Architecture*. ⭐
 
 ### Computer science
 
 Harold Abelson, Gerald Jay Sussman
-    *Structure and Interpretation of Computer Programs*. ⭐
+    *Structure and Interpretation of Computer Programs*. 📚 ⭐⭐
 
 Open Web Application Security Project (OWASP)
     https://www.owasp.org
 
 Aho, Alfred Vaino; Lam, Monica Sin-Ling; Sethi, Ravi; Ullman, Jeffrey David
-    *Compilers: Principles, Techniques, and Tools (2 ed.)*. ⭐⭐
+    *Compilers: Principles, Techniques, and Tools (2 ed.)*. ⭐⭐⭐
 
 Stefan Höltgen
     *RESUME Hands-on Retrocomputing*. ⭐
     
 Peter van Roy, Seif Haridi
     *Concepts, Techniques, and Models of Computer Programming*.
-   
+
 Donald Knuth
    *The Art of Computer Programming*
+
+Philipp Oppermann
+   *Writing an OS in Rust* [Blog posts](https://os.phil-opp.com/). ⭐⭐⭐
+
+Bob Plantz
+   *Introduction to Computer Organization*
+   (An Under the Hood Look at Hardware and x86-64 Assembly). 📚 ⭐⭐
+
+Jonathan E. Steinhart
+   *The Secret Life of Programs*
+   (Understand Computers -- Craft Better Code). 📚
+
+Adam Woodbeck
+   *Network Programming with Go*
+   (Code Secure and Reliable Network Services from Scratch). 📚 ⭐⭐
 
 ### Machine Learning
 
 Andriy Burkov
-    *The Hundred-page Machine Learning Book*.
+    *The Hundred-page Machine Learning Book*. 📚
 
 Andriy Burkov
-    *Machine Learning Engineering*. ⭐⭐
+    *Machine Learning Engineering*. ⭐
 
 Aurélien Géron
-    *Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow*. ⭐⭐⭐
+    *Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow*. 📚 ⭐⭐⭐
 
 Peter Bruce, Andrew Bruce
     *Practical Statistics for Data Scientists*.
 
 Trevor Hastie, Robert Tibshirani, Jerome Friedman
-   *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*
+   *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*.
 
 Sergios Karagiannakos
-   *Deep Learning in Production*
+   *Deep Learning in Production*.
 
 Ian Goodfellow and Yoshua Bengio and Aaron Courville
-   *Deep Learning*
+   *Deep Learning*.
 
 Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin.
-   *Bayesian Data Analysis*
+   *Bayesian Data Analysis*.
 
 ### 3D and computational geometry
 
@@ -119,10 +158,10 @@ Les Piegl
     *The Nurbs Book*.
 
 Jakob Andreas Bærentzen, Jens Gravesen, François Anton, Henrik Aanæs
-    *Guide to Computational Geometry Processing*.
+    *Guide to Computational Geometry Processing*. 📚
 
 Gabriel Gambetta
-   *Computer Graphics from Scratch*.
+   *Computer Graphics from Scratch*. 📚 ⭐⭐
 
 ### Processes and management
 
@@ -135,10 +174,10 @@ Fred Brooks
 ### Mathematics
 
 Jorge Nocedal, Stephen Wright
-    *Numerical Optimization*. ⭐
+    *Numerical Optimization*. 📚 ⭐
 
 William H. Press
-    *Numerical Recipes: The Art of Scientific Computing*.
+    *Numerical Recipes: The Art of Scientific Computing*. 📚
 
 Gene H. Golub
     *Matrix Computations*.
@@ -147,15 +186,15 @@ Timothy A. Davis
     *Direct Methods for Sparse Linear Systems*.
 
 Thomas R.J. Hughes
-    *The Finite Element Method. Linear Static and Dynamic Finite Element Analysis*.
+    *The Finite Element Method. Linear Static and Dynamic Finite Element Analysis*. 📚
 
 David Spiegelhalter
-    *The Art of Statistics. Learning from Data*. ⭐
+    *The Art of Statistics. Learning from Data*. 📚 ⭐
 
 ### Physics
 
 Kip S. Thorne, Roger D. Blandford
-    *Modern classical physics: Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics*.
+    *Modern classical physics: Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics*. 📚
 
 ## Project ideas
 
