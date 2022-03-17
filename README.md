@@ -36,6 +36,9 @@ Randall Hyde
 Randall Hyde
    *Write Great Code, Volume 3*
    (Engineering Software). 📚
+   
+Randall Hyde
+   *The Art of Assembly Language*
 
 ### Programming languages
 
