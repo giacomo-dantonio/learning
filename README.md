@@ -65,6 +65,14 @@ Daniel Higginbotham
    *Clojure for the Brave and True*
    (Learn the Ultimate Language and Become a Better Programmer). 📚
 
+### Software engineering
+
+Gene Kim, Jez Humble, Patrick Debois, John Willis, and Nicole Forsgren
+   *The DevOps Handbook*. ⭐⭐
+
+Titus Winters, Tom Manshreck, and Hyrum Wright
+   *Software Engineering at Google*
+
 ### Software architecture
 
 Eric Evans
@@ -93,6 +101,9 @@ Sam Newmann
 
 Martin Fowler
     *Patterns of Enterprise Application Architecture*. ⭐
+   
+Roberto Vitillo
+   *Understanding Distributed Systems* ⭐⭐
 
 ### Computer science
 
