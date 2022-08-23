@@ -65,6 +65,23 @@ Daniel Higginbotham
    *Clojure for the Brave and True*
    (Learn the Ultimate Language and Become a Better Programmer). 📚
 
+### Product and team management
+
+Don McGreal, Ralph Jocham
+   *The Professional Product Owner*
+   (Leveraging Scrum as a competitive advantage). 📚 ⭐⭐⭐
+
+Brené Brown
+   *Dare to Lead*. 📚 ⭐⭐
+
+Jeff Patron
+   *User Story Mapping*
+   (Discover the Whole Story, Build the Right Product). ⭐
+
+Eric Ries
+   *The Lean Startup*
+   (How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses).
+
 ### Software engineering
 
 Gene Kim, Jez Humble, Patrick Debois, John Willis, and Nicole Forsgren
