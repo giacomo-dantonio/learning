@@ -233,6 +233,22 @@ Kip S. Thorne, Roger D. Blandford
 
 ## Project ideas
 
+### Low german spell checker
+
+| Technologies   | Difficulty | Effort | Status      |
+|----------------|------------|--------|-------------|
+| hunspell, wasm | easy       | medium | not started |
+
+A website that provides spell checking for low german using
+hunspell and webassembly.
+
+There are open source repositories for hunspell on wasm and
+for a low german dictionary for hunspell. So the project is only
+about building a web interface for that.
+
+Additionally I'd like to improve the dictionary by cross checking
+it with word list from other sources. That could take some time.
+
 ### A user's manual for introverts in a tech job
 
 | Technologies | Difficulty | Effort | Status      |
