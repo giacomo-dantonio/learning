@@ -73,6 +73,9 @@ Gene Kim, Jez Humble, Patrick Debois, John Willis, and Nicole Forsgren
 Titus Winters, Tom Manshreck, and Hyrum Wright
    *Software Engineering at Google*
 
+Steve Freeman and Nat Pryce
+   *Growing Object-Oriented Software Guided by Tests*.
+
 ### Software architecture
 
 Eric Evans
