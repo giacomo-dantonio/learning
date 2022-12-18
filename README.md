@@ -209,6 +209,9 @@ Matthew Skelton
 Fred Brooks
     *The Mythical Man-Month: Essays on Software Engineering*.
 
+Tanya Reilly
+   *The Staff Engineer’s Path*
+
 ### Mathematics
 
 Jorge Nocedal, Stephen Wright
