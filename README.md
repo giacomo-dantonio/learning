@@ -114,9 +114,6 @@ Don McGreal, Ralph Jocham
    *The Professional Product Owner*
    (Leveraging Scrum as a competitive advantage). 📚 ⭐⭐⭐
 
-Brené Brown
-   *Dare to Lead*. 📚 ⭐⭐
-
 Jeff Patron
    *User Story Mapping*
    (Discover the Whole Story, Build the Right Product). ⭐
@@ -128,6 +125,20 @@ Eric Ries
 Marty Cagan
    *INSPIRED*
    (How to Create Tech Products Customers Love (Silicon Valley Product Group)).
+
+### Processes and management
+
+Matthew Skelton
+    *Team Topologies*.
+
+Fred Brooks
+    *The Mythical Man-Month: Essays on Software Engineering*.
+
+Brené Brown
+   *Dare to Lead*. 📚 ⭐⭐
+
+Tanya Reilly
+   *The Staff Engineer’s Path*
 
 ### Computer science
 
@@ -200,17 +211,6 @@ Jakob Andreas Bærentzen, Jens Gravesen, François Anton, Henrik Aanæs
 
 Gabriel Gambetta
    *Computer Graphics from Scratch*. 📚 ⭐⭐
-
-### Processes and management
-
-Matthew Skelton
-    *Team Topologies*.
-
-Fred Brooks
-    *The Mythical Man-Month: Essays on Software Engineering*.
-
-Tanya Reilly
-   *The Staff Engineer’s Path*
 
 ### Mathematics
 
