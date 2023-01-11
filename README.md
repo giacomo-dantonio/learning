@@ -65,6 +65,9 @@ Daniel Higginbotham
    *Clojure for the Brave and True*
    (Learn the Ultimate Language and Become a Better Programmer). 📚
 
+Kees Doets, Jan van Eijck
+   *The Haskell Road to Logic, Maths and Programming*.
+
 ### Software engineering
 
 Gene Kim, Jez Humble, Patrick Debois, John Willis, and Nicole Forsgren
