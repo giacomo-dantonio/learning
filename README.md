@@ -102,7 +102,8 @@ Thomas Erl
 Paul Clemens, Felix Bachmann, Len Bass, David Garlan, James Ivers, ..
     *Documenting Software Architectures: Views and Beyond*.
 
-Sam Newmann
+Sam Newmann![grafik](https://user-images.githubusercontent.com/10098389/223088628-87bc007c-969f-4182-945c-384d5f4a154b.png)
+
     *Building microservices*.
 
 Martin Fowler
@@ -110,6 +111,9 @@ Martin Fowler
    
 Roberto Vitillo
    *Understanding Distributed Systems* ⭐⭐
+   
+Cornelia Davis
+   *Cloud Native Patterns: Designing change-tolerant software.*
 
 ### Product and team management
 
