@@ -102,8 +102,7 @@ Thomas Erl
 Paul Clemens, Felix Bachmann, Len Bass, David Garlan, James Ivers, ..
     *Documenting Software Architectures: Views and Beyond*.
 
-Sam Newmann![grafik](https://user-images.githubusercontent.com/10098389/223088628-87bc007c-969f-4182-945c-384d5f4a154b.png)
-
+Sam Newmann
     *Building microservices*.
 
 Martin Fowler
