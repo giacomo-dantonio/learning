@@ -67,6 +67,9 @@ Daniel Higginbotham
 
 Kees Doets, Jan van Eijck
    *The Haskell Road to Logic, Maths and Programming*.
+   
+*The Rust Performance Book*
+   https://nnethercote.github.io/perf-book/
 
 ### Software engineering
 
