@@ -116,6 +116,18 @@ Roberto Vitillo
    
 Cornelia Davis
    *Cloud Native Patterns: Designing change-tolerant software.*
+   
+Frank Buschmann, Regine Meunier, Hans Rohnert, Peter Sommerlad and Michael Stal
+   *Pattern-Oriented Software Architecture Volume 1: A System of Patterns*
+
+Douglas C. Schmidt, Michael Stal, Hans Rohnert, Frank Buschmann
+   *Pattern-Oriented Software Architecture Volume 2: Patterns for Concurrent and Networked Objects*
+
+Michael Kircher, Prashant Jain
+   *Pattern-Oriented Software Architecture Volume 3: Patterns for Resource Management*
+
+Frank Buschmann, Kevlin Henney, Douglas C. Schmidt
+   *Pattern-Oriented Software Architecture Volume 4: A Pattern Language for Distributed Computing*
 
 ### Product and team management
 
