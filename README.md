@@ -164,6 +164,9 @@ Camille Fournier
 Tanya Reilly
    *The Staff Engineer’s Path*
 
+Will Larson
+   *Staff Engineer: Leadership beyond the management track*
+
 ### Computer science
 
 Harold Abelson, Gerald Jay Sussman
