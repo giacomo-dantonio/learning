@@ -165,7 +165,7 @@ Tanya Reilly
    *The Staff Engineer’s Path*
 
 Will Larson
-   *Staff Engineer: Leadership beyond the management track*
+   *Staff Engineer: Leadership beyond the management track* https://staffeng.com/
 
 ### Computer science
 
