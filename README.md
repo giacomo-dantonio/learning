@@ -161,6 +161,9 @@ Brené Brown
 Camille Fournier
    *The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change*
 
+Will Larson
+   *An Elegant Puzzle: Systems of Engineering Management*
+
 Tanya Reilly
    *The Staff Engineer’s Path*
 
