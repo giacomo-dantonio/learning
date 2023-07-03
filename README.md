@@ -71,6 +71,9 @@ Kees Doets, Jan van Eijck
 *The Rust Performance Book*
    https://nnethercote.github.io/perf-book/
 
+*Concurrency in C# Cookbook, 2nd Edition*
+   Stephen Cleary
+
 ### Software engineering
 
 Gene Kim, Jez Humble, Patrick Debois, John Willis, and Nicole Forsgren
