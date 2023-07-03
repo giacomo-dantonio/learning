@@ -71,8 +71,8 @@ Kees Doets, Jan van Eijck
 *The Rust Performance Book*
    https://nnethercote.github.io/perf-book/
 
-*Concurrency in C# Cookbook, 2nd Edition*
-   Stephen Cleary
+Stephen Cleary
+   *Concurrency in C# Cookbook, 2nd Edition*
 
 ### Software engineering
 
