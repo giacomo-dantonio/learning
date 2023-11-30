@@ -85,6 +85,9 @@ Titus Winters, Tom Manshreck, and Hyrum Wright
 Steve Freeman and Nat Pryce
    *Growing Object-Oriented Software Guided by Tests*.
 
+Gergely Orosz
+   *The Software Engineer's Guidebook* 📚 ⭐⭐⭐⭐
+
 ### Software architecture
 
 Eric Evans
@@ -149,6 +152,10 @@ Eric Ries
 Marty Cagan
    *INSPIRED*
    (How to Create Tech Products Customers Love (Silicon Valley Product Group)).
+
+Marty Cagan
+   *EMPOWERED*
+   (Ordinary People, Extraordinary Products).
 
 ### Processes and management
 
