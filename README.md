@@ -135,6 +135,9 @@ Michael Kircher, Prashant Jain
 Frank Buschmann, Kevlin Henney, Douglas C. Schmidt
    *Pattern-Oriented Software Architecture Volume 4: A Pattern Language for Distributed Computing*
 
+Mark Richards, Benjamin Lange, Neal Ford
+   *Fundamentals of Software Architecture: An Engineering Approach*
+
 Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani
    *Software Architecture: The Hard Parts*
 
