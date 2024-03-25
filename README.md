@@ -247,6 +247,9 @@ Ian Goodfellow and Yoshua Bengio and Aaron Courville
 Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin.
    *Bayesian Data Analysis*.
 
+ Ivan Vasilev
+   *Advanced Deep Learning with Python*
+
 ### 3D and computational geometry
 
 Les Piegl
